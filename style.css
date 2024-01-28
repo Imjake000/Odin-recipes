@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+.links {
+    color: white;
+    text-align: left;
+}
+ 
+.header.header2 {
+    font-size: 40px;
+    text-align: left;
+}
